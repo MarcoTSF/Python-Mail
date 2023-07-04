@@ -1,0 +1,11 @@
+﻿Produto;Fornecedor;Categoria;Quantidade;ValorFinal
+Produto1;Fornecedor A;Livros;15;799
+Produto2;Fornecedor B;Brinquedos;20;399
+Produto3;Fornecedor C;Eletrodomesticos;10;699
+Produto4;Fornecedor A;Esportes;25;999
+Produto5;Fornecedor B;Brinquedos;30;299
+Produto6;Fornecedor C;Ferramentas;35;899
+Produto7;Fornecedor A;Eletrodomesticos;40;749
+Produto8;Fornecedor B;Jardinagem;45;499
+Produto9;Fornecedor C;Vestuario;50;649
+Produto10;Fornecedor A;Moveis;55;899
