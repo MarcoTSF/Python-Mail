@@ -38,7 +38,7 @@ pyautogui.press("enter")
 time.sleep(3)
 
 # Clica no botão "Escrever"
-pyautogui.click(x=135, y=240)
+pyautogui.click(x=80, y=169)
 # Escrever o destinatário
 pyautogui.write("mtsf.salvador@gmail.com")
 # Confirma o destinatário
